@@ -1,0 +1,53 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner
+{
+    background-image: url(parissss.jpg);
+    height: 300px;
+    position: relative;
+}
+
+.lnavbar
+{
+    margin: 3px;
+    padding: 3px;
+    float: left;
+}
+
+.rnavbar
+{
+    margin: 3px;
+    padding: 3px;
+    float: right;
+}
+
+.body
+{
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5px;
+    position: absolute;
+    left: 50vh;
+    right: 50vh;
+}
+
+.text
+{
+    color: black;
+    font-size: large;
+    text-decoration: wavy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#box{
+    justify-content: center;
+    position: absolute;
+    display: inline-block;
+    left: 50vh;
+
+    
+}
